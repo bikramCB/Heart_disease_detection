@@ -1,0 +1,6 @@
+1.Heart data
+2.Data preprocessing
+3.Train Test Split
+4. feed train data to Logistic regressio model cause it is binary classification
+5.we get trained logistic regression model
+6. feed new data to trained model to identify person is having heart disease or not
